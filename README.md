@@ -1,6 +1,6 @@
 # 📝 Full-Stack Task Management Application
 
-Welcome to the **Full-Stack Task Management Application** — a robust and responsive task management system built using the **React + Sprinboot+MySQL** stack! 🚀
+Welcome to the **Full-Stack Task Management Application** — a robust and responsive task management system built using the **React + Springboot + MySQL** stack! 🚀
 
 ---
 
