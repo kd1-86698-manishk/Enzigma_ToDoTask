@@ -1,8 +1,6 @@
-# 📝 Full-Stack Blogging Platform
+# 📝 Full-Stack Task Management Application
 
-Welcome to the **Full-Stack Blogging Platform** — a robust and responsive blogging system built using the **MERN + MySQL** stack! 🚀
-
-This project was developed as part of the CDAC 2025 curriculum and enables users to create, manage, and read blog posts with user authentication and a sleek UI.
+Welcome to the **Full-Stack Task Management Application** — a robust and responsive task management system built using the **React + Sprinboot+MySQL** stack! 🚀
 
 ---
 
